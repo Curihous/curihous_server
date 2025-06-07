@@ -1,5 +1,3 @@
-QBit Backend Server/README.md
-
 # 📈 QBit Backend
 
 **초보 투자자를 위한 투자 스타일 맞춤형 AI 퀀트 트레이딩 기반 투자 훈련 플랫폼, QBit**
